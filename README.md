@@ -14,7 +14,7 @@ The following options need to be selected:
 * Region: Eastern Africa
 * Country: South Sudan
 
-\textbf{Raleigh, C., Linke, A., Hegre, H., and Karlsen, J. (2010). Introducing ACLED: An armed conflict location and event dataset, special data feature. Journal of Peace Research, 47(5):651-660.}
+**Raleigh, C., Linke, A., Hegre, H., and Karlsen, J. (2010). Introducing ACLED: An armed conflict location and event dataset, special data feature. Journal of Peace Research, 47(5):651-660.**
 
 # Citation:
 Kelling, Claire, and YiJyun Lin. “Analysis of Conflict Diffusion over Continuous Space.” Computational Conflict Research, Springer, 2019. Computational Social Sciences. 
