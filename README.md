@@ -3,7 +3,9 @@ This repository is replication code for the book chapter "Analysis of Conflict D
 
 # Repository Information
 This repository includes the following files:
+* Kelling_and_Lin_Analysis_of_Conf_Diff.R: All code required to complete the analysis in the book chapter, with detailed comments.
 * data/actors(re-classify).csv: This includes all actors that participated in conflict events in the ACLED dataset from South Sudan between 2011 and 2018.
+* data/ACLED (South Sudan).xlsx: This file includes all of our events. Complete details on how to create this dataset using the ACLED website are below.
 
 ## Data
 The original data, from ACLED, can be found here: https://www.acleddata.com/data/
